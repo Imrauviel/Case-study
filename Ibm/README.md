@@ -10,6 +10,7 @@ But the best result we get using...
 ![image](./mdimg/grad.png)
 
 Gradient Boosting Classifier
+
 After Hyperparameter tuning we achive 87% correctness. 
 
 One of finnly trees are presenting here:
@@ -18,3 +19,4 @@ One of finnly trees are presenting here:
 Confusion Matrix:
 
 ![image](./mdimg/conf.png)
+
