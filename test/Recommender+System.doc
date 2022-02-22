@@ -1,0 +1,300 @@
+Date: Fri, 7 May 2021 16:26:38 +0200 (CEST)
+Message-ID: <914555437.969.1620397598889@czmuims01.ops.egi.eu>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_968_856772535.1620397598889"
+
+------=_Part_968_856772535.1620397598889
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Recommender System</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Recommender System</h1>
+    <div class=3D"Section1">
+        <h1 id=3D"RecommenderSystem-Inanutshell"><span>In a nutshell</span>=
+</h1>
+<p><span>The Recommender System of the EOSC Marketplace Portal suggests sci=
+entific services to users.</span></p>
+<h1 id=3D"RecommenderSystem-Whydoweneedit"><span>Why do we need it</span></=
+h1>
+<p><span>The number of services in the portal can be potentially very large=
+, and a manual search through all of them is potentially difficult or impos=
+sible. The recommendation system solves this problem of information overloa=
+d by learning the user's preferences and making it easier for them to find =
+services they are looking for.</span></p>
+<h1 id=3D"RecommenderSystem-Behaviourdescription"><span>Behaviour descripti=
+on</span></h1>
+<p><span>The system is based on a user's order history, as well as similari=
+ties between users and between services.</span></p>
+<p><span>It takes into account the following user features:</span></p>
+<ul>
+<li><span>categories</span></li>
+<li><span>scientific domains</span></li>
+<li><span>order history</span></li>
+</ul>
+<p><span>...and the following service features:</span></p>
+<ul>
+<li><span>name</span></li>
+<li><span>description</span></li>
+<li><span>tagline</span></li>
+<li><span>countries</span></li>
+<li><span>order type</span></li>
+<li><span>categories</span></li>
+<li><span>providers</span></li>
+<li><span>resource organisation</span></li>
+<li><span>scientific domains</span></li>
+<li><span>platforms</span></li>
+<li><span>target users</span></li>
+<li><span>access modes</span></li>
+<li><span>access types</span></li>
+<li><span>trls</span></li>
+<li><span>life cycle statuses</span></li>
+</ul>
+<p><span>Moreover user's seach phrase and selected filters are taken into c=
+onsideration to narrow down possible recommendations.</span></p>
+<p><span>Suggested services are displayed in the recommendation panel embed=
+ded in the list of services in the Catalogue.</span></p>
+<p><span>Currently, a so-called Pre-Agent, relying on the <a class=3D"exter=
+nal-link" href=3D"https://arxiv.org/pdf/1708.05031.pdf" rel=3D"nofollow">Ne=
+ural Collaborative Filtering technique</a> that uses the data described abo=
+ve, is used to compute recommendations.</span></p>
+<p><span>During the Pre-Agent run, information is collected about the user'=
+s clicks on the site, which to varying degrees reflect their interest in th=
+e services being recommended, e.g., clicking on the service, going to its d=
+etails, etc.</span></p>
+<h1 id=3D"RecommenderSystem-Smoothtransitiontoabetterversion"><span>Smooth =
+transition to a better version</span></h1>
+<p><span>In the future, the Pre-Agent will be replaced by a more advanced r=
+ecommendation agent based on Reinforcement Learning (<a class=3D"external-l=
+ink" href=3D"https://arxiv.org/pdf/1801.00209.pdf" rel=3D"nofollow">https:/=
+/arxiv.org/pdf/1801.00209.pdf</a>) - the so-called RL Agent. It will additi=
+onally use the mentioned information about clicks on the website for recomm=
+endation. By starting to collect this information earlier, while the Pre-Ag=
+ent is already running, the RL Agent will be able to be trained before bein=
+g turned on, which will provide users with quality recommendations right fr=
+om the start, and the transition will be smooth.</span></p>
+    </div>
+</body>
+</html>
+------=_Part_968_856772535.1620397598889--
